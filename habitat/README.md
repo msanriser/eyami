@@ -1,6 +1,6 @@
-# habitat-building-with-scaffolding
+# eyami
 
-Brief description of habitat-building-with-scaffolding
+Brief description of eyami
 
 ## Maintainers
 
